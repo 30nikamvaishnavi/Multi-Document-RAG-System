@@ -1,0 +1,14 @@
+# Core dependencies for Multi-Document Agentic RAG System
+streamlit>=1.37.0
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-chroma>=0.2.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+chromadb>=0.5.0
+pypdf>=5.0.0
+python-docx>=1.1.0
+openpyxl>=3.1.0
+python-pptx>=1.0.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
